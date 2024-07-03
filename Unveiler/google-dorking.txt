@@ -1,0 +1,13 @@
+1. RCE PRONE PARAMETERS:
+inurl:cmd | inurl:exec= | inurl:query= | inurl:code= | inurl:do= | inurl:run= | inurl:ping= inurl:& site:example[.]com
+
+2.'Username:' Base64 encoded:
+í VXNlcm5hbWU6 ext:pcap
+
+3. Gmail traffic (cookie)
+í gmailchat ext:cap
+
+4. SMB / CIFS traffic can be found with:
+í SMB ext:pcap
+
+
