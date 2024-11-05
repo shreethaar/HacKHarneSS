@@ -1,0 +1,10 @@
+PyJail Character Test Results
+============================
+
+Allowed characters:
+()
+Total allowed: 2
+
+Blocked characters:
+!"#$%&'*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+Total blocked: 92
